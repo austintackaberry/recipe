@@ -1,0 +1,22 @@
+#main {
+  margin-top: 100px;
+}
+
+#recipe-container {
+  max-width: 100%;
+}
+
+.ingredients-title {
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+.change-recipe {
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+
+textarea {
+  max-width: 100%;
+}
